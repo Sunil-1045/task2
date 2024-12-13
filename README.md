@@ -43,3 +43,5 @@ Arduino IDE for programming.
 Cloud platforms like Firebase or Blynk for IoT integration.
 Mobile app frameworks (e.g., MIT App Inventor) for interface design.
 
+output link:
+https://www.tinkercad.com/things/18TQi2WTOPu/editel
