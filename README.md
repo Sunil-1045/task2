@@ -45,3 +45,5 @@ Mobile app frameworks (e.g., MIT App Inventor) for interface design.
 
 output link:
 https://www.tinkercad.com/things/18TQi2WTOPu/editel
+
+![Screenshot 2024-12-12 201256](https://github.com/user-attachments/assets/c8772ca3-2c6b-493f-b6d1-2c49c8fd669a)
